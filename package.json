@@ -7,9 +7,9 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Nathan Cheshire",
+  "license": "MIT",
+  "description": "A Chrome extension by Natche",
   "devDependencies": {
     "@types/chrome": "^0.0.277",
     "typescript": "^5.6.3"

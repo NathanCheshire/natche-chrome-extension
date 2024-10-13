@@ -6,6 +6,18 @@
   "background": {
     "service_worker": "dist/background.js"
   },
+  "action": {
+    "default_icon": {
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
+    }
+  },
+  "icons": {
+    "16": "icons/icon.png",
+    "48": "icons/icon.png",
+    "128": "icons/icon.png"
+  },
   "content_scripts": [
     {
       "matches": ["<all_urls>"],
